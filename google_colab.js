@@ -6,7 +6,7 @@
 // @author       coli
 // @match        https://colab.research.google.com/drive/*
 // @license     GPL License
-// @icon        https://ssl.gstatic.com/colaboratory-static/common/531c4fe6b87c8a33d030dbb3a0e641b3/img/favicon.ico
+// @icon         https://ssl.gstatic.com/colaboratory-static/common/531c4fe6b87c8a33d030dbb3a0e641b3/img/favicon.ico
 // @grant        none
 // ==/UserScript==
 
