@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8429fe63-c20d-45b5-b122-95422beba28a" name="更改" comment="@description:ja描述不能与名称相同">
-      <change beforePath="$PROJECT_DIR$/google_colab.js" beforeDir="false" afterPath="$PROJECT_DIR$/google_colab.js" afterDir="false" />
-    </list>
+    <list default="true" id="8429fe63-c20d-45b5-b122-95422beba28a" name="更改" comment="icon" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694359440873</updated>
-      <workItem from="1694359446126" duration="1983000" />
+      <workItem from="1694359446126" duration="2291000" />
     </task>
     <task id="LOCAL-00001" summary="😁">
       <option name="closed" value="true" />
@@ -120,7 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694361261540</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="描述不能与名称相同">
+      <option name="closed" value="true" />
+      <created>1694361451250</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694361451250</updated>
+    </task>
+    <task id="LOCAL-00007" summary="描述不能与名称相同">
+      <option name="closed" value="true" />
+      <created>1694361700845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694361700845</updated>
+    </task>
+    <task id="LOCAL-00008" summary="icon">
+      <option name="closed" value="true" />
+      <created>1694361729019</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694361729019</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +164,8 @@
     <MESSAGE value="" />
     <MESSAGE value="license" />
     <MESSAGE value="@description:ja描述不能与名称相同" />
-    <option name="LAST_COMMIT_MESSAGE" value="@description:ja描述不能与名称相同" />
+    <MESSAGE value="描述不能与名称相同" />
+    <MESSAGE value="icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="icon" />
   </component>
 </project>

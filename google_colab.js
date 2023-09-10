@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         谷歌colab自动切号脚本
-// @namespace    https:me.coli777.win
+// @namespace    https://me.coli777.win
 // @version      0.1
 // @description  谷歌colab自动换切号
 // @author       coli
