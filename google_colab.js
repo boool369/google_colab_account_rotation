@@ -3,8 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  谷歌colab自动切号
-// @author       You
-// @match        http://*/*
+// @author       coli
+// @match        https://colab.research.google.com/drive/*
+// @license     GPL License
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==

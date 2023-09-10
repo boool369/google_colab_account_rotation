@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8429fe63-c20d-45b5-b122-95422beba28a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/google_colab.js" afterDir="false" />
+    <list default="true" id="8429fe63-c20d-45b5-b122-95422beba28a" name="更改" comment="🆗">
+      <change beforePath="$PROJECT_DIR$/google_colab.js" beforeDir="false" afterPath="$PROJECT_DIR$/google_colab.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "boool369"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="54a5359d-7b48-4dbe-8fb1-6570ba460c21" />
+        <option name="url" value="https://github.com/boool369/google_colab_account_rotation.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -56,11 +70,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694359440873</updated>
-      <workItem from="1694359446126" duration="663000" />
+      <workItem from="1694359446126" duration="1291000" />
     </task>
+    <task id="LOCAL-00001" summary="😁">
+      <option name="closed" value="true" />
+      <created>1694360228759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694360228759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="🆗">
+      <option name="closed" value="true" />
+      <created>1694360732958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694360732958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="" />
+    <MESSAGE value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
