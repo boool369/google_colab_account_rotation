@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         谷歌colab自动切号
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  谷歌colab自动切号
 // @author       You
 // @match        http://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
